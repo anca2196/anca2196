@@ -25,7 +25,7 @@
 
 ---
   
-<h2 align="center"> 💻 My projects 💻</h2>
+<h3 align="center"> 💻 My projects 💻</h3>
 <br>
 <p align="center">
 <a href="https://github.com/anca2196/Space-Coachella" title="Space-Coachella"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=anca2196&repo=Space-Coachella&theme=gotham&border_color=white&border_radius=10"></a> 
@@ -37,7 +37,7 @@
  ---
   
   
-<h2 align="center"> 🔥 My Stats 🔥 </h2>
+<h3 align="center"> 🔥 My Stats 🔥 </h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anca2196&show_icons=true&locale=en&layout=compact&theme=gotham" alt="anca2196" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anca2196&show_icons=true&locale=en&theme=gotham" alt="anca2196" /></p>
