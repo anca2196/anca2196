@@ -43,6 +43,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anca2196&show_icons=true&locale=en&theme=gotham" alt="anca2196" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anca2196&&theme=gotham" alt="anca2196" /></p>
+
+---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=anca2196&theme=tokyonight&title=Issues,PullRequest,Commits&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
   
   ---
   
