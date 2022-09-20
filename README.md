@@ -45,8 +45,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anca2196&&theme=gotham" alt="anca2196" /></p>
 
 ---
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=anca2196&theme=tokyonight&title=Issues,PullRequest,Commits&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
   
+[![trophy](https://github-profile-trophy.vercel.app/?username=anca2196&theme=tokyonight&title=Issues,PullRequest&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
   ---
   
